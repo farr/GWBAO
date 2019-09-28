@@ -18,4 +18,3 @@ dependencies:
   - scipy
   - seaborn
   - tqdm
-prefix: /Users/wfarr/anaconda3/envs/GWBAO
